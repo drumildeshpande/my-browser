@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 01 Jan 2014 18:28:41 +0530
+Source: mybrowser
+Binary: mybrowser
+Architecture: source all
+Version: 0.1
+Distribution: precise
+Urgency: low
+Maintainer: UNKNOWN <UNKNOWN>
+Changed-By: drumil <drumil@dvd>
+Description: 
+ mybrowser  - UNKNOWN
+Changes: 
+ mybrowser (0.1) precise; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1: 
+ 6b70b8b7673e30e7e03ca5e55152247ccf19c0c8 532 mybrowser_0.1.dsc
+ 6c396bf14d8d0bce5bee49b4315ef4289a20494d 28952 mybrowser_0.1.tar.gz
+ 03cca9a6179894ca6255ce9171f7f00664b21bb0 30286 mybrowser_0.1_all.deb
+Checksums-Sha256: 
+ b7c2b458a4d1f11c8f0d5fc6d7310a01f80f3bb964cd56745739d9fcee3fb26e 532 mybrowser_0.1.dsc
+ 68528867fd6b8d65700321d99fd594e94f049ef59f18a433866bc5582ef1ed6b 28952 mybrowser_0.1.tar.gz
+ 438e2378f8c685943dbd3e4c5e138642ead92972c704035c01ced782e67a0691 30286 mybrowser_0.1_all.deb
+Files: 
+ a2f10a2ef653c296056e7f392e41faba 532 python extra mybrowser_0.1.dsc
+ 3ab1d04d94b1b31762f8350796a6e07d 28952 python extra mybrowser_0.1.tar.gz
+ 8d9c0961138585f1878679cff8d3fa38 30286 python extra mybrowser_0.1_all.deb

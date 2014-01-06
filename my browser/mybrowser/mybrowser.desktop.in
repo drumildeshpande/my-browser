@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Mybrowser
+_Comment=Mybrowser application
+Categories=GNOME;Utility;
+Exec=mybrowser
+Icon=/usr/share/mybrowser/media/mybrowser.svg
+Terminal=false
+Type=Application
